@@ -1,4 +1,4 @@
-# A LittleLink Bongo Theme
+# LittleLink-Custom Bongo Theme
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
 *	Theme Name: Bongo
