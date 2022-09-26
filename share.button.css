@@ -3,9 +3,7 @@
   vertical-align: middle;
   width: 20px;
   height: 20px;
-  -webkit-filter: invert(100%);
-  -moz-filter: invert(100%);
-  filter: invert(100%);
+  color: #569cfa !important; 
 }
 
 .sharediv {
@@ -55,14 +53,14 @@
     line-height: 48px;
     letter-spacing: 0.1px;
     white-space: wrap;
-    border: solid var(--accentColor) 2px;
+    border: solid #ff61d8 3px;
     border-radius: 10px;
     cursor: pointer;
-    color: #ffffff; 
+    color: #569cfa !important; 
     background-color: transparent;
    }
    
-@media screen and (min-width: 600px) {
+/* @media screen and (min-width: 600px) {
   .sharebutton,
   sharebutton {
     display: inline-block;
@@ -88,17 +86,9 @@
     margin-left: auto;
     margin-right: auto;
    }
-}
-sharebutton:hover,
-.sharebutton:hover {
-  color: #000000;
-  background-color: #FFF; 
-}
-.sharebutton:hover .share-icon {
-  filter: none !important;
-}
+} */
 
-  @media screen and (max-width: 600px) {
+  /* @media screen and (max-width: 600px) { */
     .sharebutton-mb {
      display: none;
     }
@@ -108,5 +98,4 @@ sharebutton:hover,
       margin-left: auto;
       margin-right: auto;
      }
-   }
-   
+   /* } */

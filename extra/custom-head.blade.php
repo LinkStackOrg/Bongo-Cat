@@ -1,4 +1,8 @@
+
 <style>
+
+@font-face { font-family: comic; src: url('{{themeAsset('comicboys.otf')}}'); } 
+
 :root {
   --bg: #1a1e2d;
   --green: #a5ea9b;
