@@ -1,7 +1,7 @@
 # LittleLink-Custom Bongo Cat Theme
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
-*	Theme Name: Bongo
+*	Theme Name: Bongo Cat
 *	Theme Version: 1.0
 *	Theme Date: 2022-09-22
 *	Theme Author: JulianPrieber & MagicLike
