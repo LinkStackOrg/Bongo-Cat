@@ -1,4 +1,4 @@
-# LittleLink-Custom Bongo Theme
+# LittleLink-Custom Bongo Cat Theme
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
 *	Theme Name: Bongo
