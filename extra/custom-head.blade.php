@@ -17,7 +17,7 @@ body {
   width: 100vw;
   background: var(--bg);
   place-content: center;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .container-cat {

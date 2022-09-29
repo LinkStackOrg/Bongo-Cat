@@ -137,7 +137,8 @@ letter-spacing: 5px !important;}
 p {
   margin-top: 0;
 color: #ffcc81;
-font-size: 200% !important; 
+font-size: 130% !important; 
+width: 100% !important;
 letter-spacing: 3px !important; }
 
 
@@ -242,7 +243,7 @@ hr {
 /* Styling for credit footer text */
 .credit-txt {
 font-weight: 700;
-font-size: 15px;
+font-size: 80%;
 text-decoration: none;
 }
 
@@ -259,14 +260,4 @@ right: 15px;
 
 .credit-txt-clr{
    color: #FFF !important;
-}
-
-
-:root {
---bg: #1a1e2d;
---green: #a5ea9b;
---pink: #ff61d8;
---blue: #569cfa;
---orange: #ffcc81;
---cyan: #7ed1e2;
 }
