@@ -8,7 +8,7 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
 *	Theme Author URI: https://github.com/JulianPrieber
 *   Theme Co-Author URI: https://github.com/MagicLike
 *	Theme License: GPLv3
-*	Source code: https://github.com/LittleLink-Custom/Bongo
+*	Source code: https://github.com/LittleLink-Custom/Bongo-Cat
 
 
 ### Used assets:
