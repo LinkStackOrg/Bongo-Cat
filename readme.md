@@ -22,4 +22,4 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
 
 *
 * Bongo Cat : Pure Html, Css & Js
-* License: MIT -> https://codepen.io/MrS4nty/pen/MWVdjKG
+* License: MIT -> https://codepen.io/carolineartz/details/qBOEzQa
