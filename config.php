@@ -19,6 +19,8 @@ return [
     'allow_custom_buttons' => 'false',
 
     'open_links_in_same_tab' => 'false',
+    
+    'allow_custom_background' => 'false',
 
 
     /*
