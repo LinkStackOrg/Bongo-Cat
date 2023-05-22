@@ -1,10 +1,10 @@
-# LittleLink-Custom Bongo Cat Theme
+# LinkStack Bongo Cat Theme
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
 *	Theme Name: Bongo Cat
-*	Theme Version: 1.4
+*	Theme Version: 1.5
 *	Theme Date: 2022-09-22
-*	Theme Author: JulianPrieber & MagicLike
+*	Theme Author: JulianPrieber & MagicLike & LinkStack Team
 *	Theme Co-Author URI: https://github.com/JulianPrieber
 *   Theme Co-Author URI: https://github.com/MagicLike
 *	Theme License: GPLv3
