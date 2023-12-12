@@ -2,7 +2,7 @@
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
 *	Theme Name: Bongo Cat
-*	Theme Version: 1.5
+*	Theme Version: 1.6
 *	Theme Date: 2022-09-22
 *	Theme Author: JulianPrieber & MagicLike & LinkStack Team
 *	Theme Co-Author URI: https://github.com/JulianPrieber
